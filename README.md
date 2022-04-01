@@ -4,7 +4,7 @@
 
 Submitted by: **Catherine Kang**
 
-Time spent: **5** hours spent in total
+Time spent: **8** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/codepath--prework
 ## Required Functionality
@@ -38,14 +38,20 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![]https://recordit.co/MEpqMOaiXn
-![]https://recordit.co/U40dHpuV7x
-![]https://recordit.co/dJnT8DuEAD
+![https://recordit.co/MEpqMOaiXn]
+![https://recordit.co/U40dHpuV7x]
+![https://recordit.co/dJnT8DuEAD]
 ![](gif4-link-here)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+[I used stack overflow to help figure out how to embed images onto my buttons and incorporate different audio for my buttons. I used W3 school's website to learn how to change the background of my game. 
+These are the specific questions I looked at:
+    https://stackoverflow.com/questions/20869401/display-an-image-only-when-button-is-clicked
+    https://stackoverflow.com/questions/9419263/how-to-play-audio 
+    https://www.w3schools.com/cssref/pr_background-image.asp
+]
+
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [I have never used any of the programming languages, so learning how the languages work and interact with each other was a fun challenge. I actually started a web programming class at my school, so I will learn more about HTML, javascript, and CSS. However, there have only been two lectures so I have not obtained any knowledge that I could use for this project. This game was a great introduction for me to see what is to come in learning how web programming works. The main challenge in this submission was learning how the three files interact with each other and how each one contributes to creating the final product. The step–by-step guide to create the game was a useful tool to begin to understand the purpose of each file. The html file is the main file where the objects of the game are created while the CSS file is where the aesthetics of  objects are changed. I learned the jss file is where the logic of the game can be created, and most of the time I was switching between the html and jss file to code the game. Some specific challenges I faced were learning how to keep an image hidden until a button is clicked as well as figuring out how to include different audio for the buttons when I created the mystery reveal of Super Mario characters. Most questions I have about code have already been asked by other users on stackoverflow which is where I went to figure out how to hide an image on a button and change the noises of them. Seeing the answers from other people helped me to see how important the jss file is because it is not only where the workings of the game is written but also useful in creating changes to the buttons. ]
@@ -61,7 +67,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://1drv.ms/v/s!ApmkeupgsY8IlzeXSOKcy34Akftt?e=xuiB1o)
 
 
 ## License
